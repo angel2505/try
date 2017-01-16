@@ -1,6 +1,6 @@
 # Duel To The Death
 ```
-This project is a template of a game which takes place in a fantastic world full of warriors, magicians and rogues.
+Our project is a template of a game which takes place in a fantastic world full of warriors, magicians and rogues.
 ```
 ## Tests
 At present we don't have any tests for any classes but we've planned to do tests soon.
